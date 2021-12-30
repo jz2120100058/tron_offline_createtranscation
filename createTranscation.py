@@ -1,4 +1,4 @@
-
+#tron 线下生成transcation
 import ecdsa
 import time
 import hashlib
